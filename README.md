@@ -32,14 +32,10 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=berkandevv&color=blueviolet&style=flat)
-
 ![Streak](https://streak-stats.demolab.com/?user=berkandevv&theme=tokyonight)
 
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=berkandevv&theme=tokyonight)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=berkandevv&theme=tokyonight)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=berkandevv&theme=tokyonight&no-frame=true&row=1&column=7)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=berkandevv&theme=tokyo-night)
 
