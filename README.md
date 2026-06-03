@@ -30,6 +30,6 @@
 
 <h2 align="center">Github Stats</h2>
 
-| ![Berkan's github stats](https://github-readme-stats.vercel.app/api?username=berkandevv&show_icons=true&theme=tokyonight) | ![Berkan GitHub Streak](https://streak-stats.demolab.com/?user=berkandevv&theme=tokyonight) |
+| ![Berkan's github stats](https://github-readme-stats.vercel.app/api?username=berkandevv&show_icons=true&theme=tokyonight&cache_seconds=86400) | ![Berkan GitHub Streak](https://streak-stats.demolab.com/?user=berkandevv&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkandevv&theme=tokyonight) | |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkandevv&theme=tokyonight&cache_seconds=86400) | |
