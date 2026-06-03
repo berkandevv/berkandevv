@@ -30,6 +30,15 @@
 
 <h2 align="center">Github Stats</h2>
 
-| ![Berkan's github stats](https://github-readme-stats.vercel.app/api?username=berkandevv&show_icons=true&theme=tokyonight&cache_seconds=86400) | ![Berkan GitHub Streak](https://streak-stats.demolab.com/?user=berkandevv&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkandevv&theme=tokyonight&cache_seconds=86400) | |
+<div align="center">
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=berkandevv&theme=tokyonight)
+
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=berkandevv&theme=tokyonight)
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=berkandevv&theme=tokyonight)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=berkandevv&theme=tokyonight)
+![Productive](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=berkandevv&theme=tokyonight&utcOffset=2)
+
+</div>
+
